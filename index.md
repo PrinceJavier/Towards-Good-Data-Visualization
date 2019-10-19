@@ -4,7 +4,9 @@ Oct 19, 2018
 
 ## Data and society
 
+<p align='center'>
 <img src='media/Slide3.jpeg' width='600' align='center'>
+</p>
 
 We are the only species capable of creating massive infrastructures, terraforming the Earth, and creating new materials. We are the only mammals that’s able to form massive groups and cooperate, forming corporations, religious organizations, and countries. We are the only species that has reached outer space and even landed on the moon. Our robots have reached other neighboring planets, asteroids, and satellites.
 
