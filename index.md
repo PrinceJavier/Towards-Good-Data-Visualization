@@ -1,5 +1,4 @@
-# Towards Good Data Visualization
-Prince Javier
+by Prince Javier
 Originally presented at ReVamp QA Day Event, Makati, Ph
 Oct 19, 2018
 
