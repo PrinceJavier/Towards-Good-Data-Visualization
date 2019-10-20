@@ -115,9 +115,7 @@ With these frameworks our aim is to make better charts that communicate effectiv
 Understanding the context means looking at the big picture. Looking at the problem or issue and everything around it from a bird’s eye view. We first want to understand the audience, our desired outcomes, the story we are going to tell, and the data we will use to support our story.
 
 <p align='center'>
-<img src='media/Slide21.jpeg' width='250' align='center'>
-<img src='media/Slide23.jpeg' width='250' align='center'>
-<img src='media/Slide22.jpeg' width='250' align='center'>
+<img src='media/Slide21.jpeg' width='600' align='center'>
 </p>
 
 First we have to know whom we will be communicating with. Is it grade schoolers, college students? Teachers? Are they from rural or urban areas? Are they from the government or private sector?
@@ -125,6 +123,10 @@ First we have to know whom we will be communicating with. Is it grade schoolers,
 We identify who are the decision-makers. Who have the say whether to push your proposed solution or not?
 
 Segment your audience. Define them as clearly as possible. Before you make charts, you should know for whom you will be making your charts in the first place!
+
+<p align='center'>
+<img src='media/Slide22.jpeg' width='600' align='center'>
+</p>
 
 Once you have identified your audience, the next step is to define your story. What do you want your audience to know or do?
 
@@ -135,6 +137,10 @@ One way to help you with this is to answer:
 Strip down into only the most important bits. Try to summarize your story in 3 minutes. In one sentence, what does your audience need to know? Give your unique point of view, tell what is at stake, and state this in a complete sentence.
 
 Summarizing into three minutes and into just one sentence will help clarify your story and identify the most important parts. Always remember the desired outcome you want from your audience. Do you want them to do something? To know something?
+
+<p align='center'>
+<img src='media/Slide23.jpeg' width='600' align='center'>
+</p>
 
 Now that you know your audience and what you want to tell them, identify your approach. How are you going to tell your story? Will this be a live presentation? Will this be through a written document? What will the tone be like? Will it be fun? Serious? Again, this will depend on the audience and what you want them to do.
 
