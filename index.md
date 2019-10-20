@@ -55,8 +55,8 @@ We live at an unprecedented time. We are swimming in data. There are currently o
 To give us a bit of perspective, each minute, we generate 300k FB posts, 500k photos in Snapchat, 450k Tweets, and 2.4 million Google searches.
 
 <p align='center'>
-<img src='media/Slide13.jpeg' width='600' align='center'>
-<img src='media/Slide14.jpeg' width='600' align='center'>
+<img src='media/Slide13.jpeg' width='400' align='left'>
+<img src='media/Slide14.jpeg' width='400' align='left'>
 </p>
 
 And it’s only expected to grow exponentially. 90% of all data we have were generated only in the last 2 years! This is just the data on the internet. What about data generated internally in organizations? 
