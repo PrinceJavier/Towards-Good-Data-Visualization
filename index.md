@@ -115,9 +115,9 @@ With these frameworks our aim is to make better charts that communicate effectiv
 Understanding the context means looking at the big picture. Looking at the problem or issue and everything around it from a bird’s eye view. We first want to understand the audience, our desired outcomes, the story we are going to tell, and the data we will use to support our story.
 
 <p align='center'>
-<img src='media/Slide21.jpeg' width='300' align='center'>
-<img src='media/Slide23.jpeg' width='300' align='center'>
-<img src='media/Slide22.jpeg' width='300' align='center'>
+<img src='media/Slide21.jpeg' width='250' align='center'>
+<img src='media/Slide23.jpeg' width='250' align='center'>
+<img src='media/Slide22.jpeg' width='250' align='center'>
 </p>
 
 First we have to know whom we will be communicating with. Is it grade schoolers, college students? Teachers? Are they from rural or urban areas? Are they from the government or private sector?
