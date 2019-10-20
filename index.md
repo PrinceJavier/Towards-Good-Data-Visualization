@@ -4,15 +4,13 @@ Oct 19, 2018
 
 ## Data and society
 
-<p align='center'>
-<img src='media/Slide3.jpeg' width='600' align='center'>
-</p>
+<img src='media/Slide3.jpeg' width='300' align='left'>
 
 We are the only species capable of creating massive infrastructures, terraforming the Earth, and creating new materials. We are the only mammals that’s able to form massive groups and cooperate, forming corporations, religious organizations, and countries. We are the only species that has reached outer space and even landed on the moon. Our robots have reached other neighboring planets, asteroids, and satellites.
 
-<img src='media/Slide5.jpeg' width='600' align='center'>
-
 We have sent our information to the peripheries of our solar system through the golden record inside the Voyager space craft launched in 1977 in hopes of preserving our species progress. 
+
+<img src='media/Slide5.jpeg' width='300' align='right'>
 
 And it seems we are the only species on Earth capable of creating a new form of intelligence or even a new life form. An artificial intelligence.
 
@@ -26,7 +24,9 @@ The idea of shared beliefs to form large groups not only applies to countries bu
 
 Shared beliefs create massive groups beyond the natural social limit of 150. This allows for unprecedented collaboration and generation of ideas that propel our knowledge and technology forward.
 
+<p align='center'>
 <img src='media/Slide8.jpeg' width='600' align='center'>
+</p>
 
 What enabled us to share and propagate shared beliefs is our capacity to store and share information over space and time. And civilizations from those of Mesopotamia and ancient Egypt up to today are founded on stored and shared information. From cave paintings of bulls, Baybayin on copper plates, hieroglyphs of Egypt to programming languages and mathematical formulas on chalk boards.
 
@@ -40,7 +40,9 @@ We are normally visual creatures. In fact, we process pictures very fast - 60,00
 
 They say a picture is worth a thousand words? It’s not - because it’s worth 60,000.
 
+<p align='center'>
 <img src='media/Slide10.jpeg' width='600' align='center'>
+</p>
 
 Secondly, our brains evolved to tell and remember stories. Which is why some of the earliest known histories have been passed through stories from epics memorized by Babaylans of the Philippines, Homer’s Odyssey, to the oral tradition of the Old Testament.
 
@@ -52,8 +54,10 @@ We live at an unprecedented time. We are swimming in data. There are currently o
 
 To give us a bit of perspective, each minute, we generate 300k FB posts, 500k photos in Snapchat, 450k Tweets, and 2.4 million Google searches.
 
+<p align='center'>
 <img src='media/Slide13.jpeg' width='600' align='center'>
 <img src='media/Slide14.jpeg' width='600' align='center'>
+</p>
 
 And it’s only expected to grow exponentially. 90% of all data we have were generated only in the last 2 years! This is just the data on the internet. What about data generated internally in organizations? 
 
