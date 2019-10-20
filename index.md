@@ -55,8 +55,8 @@ We live at an unprecedented time. We are swimming in data. There are currently o
 To give us a bit of perspective, each minute, we generate 300k FB posts, 500k photos in Snapchat, 450k Tweets, and 2.4 million Google searches.
 
 <p align='center'>
-<img src='media/Slide13.jpeg' width='400' align='left'>
-<img src='media/Slide14.jpeg' width='400' align='left'>
+<img src='media/Slide13.jpeg' width='400' align='center'>
+<img src='media/Slide14.jpeg' width='400' align='center'>
 </p>
 
 And it’s only expected to grow exponentially. 90% of all data we have were generated only in the last 2 years! This is just the data on the internet. What about data generated internally in organizations? 
@@ -69,17 +69,23 @@ But how can we make sense of all the data being generated and share them? How ca
 
 More and more organizations and people are finding the need to effectively communicate insights from data. If we look at Google searches worldwide for the term ‘data visualization’, we find that they are steadily increasing, which tells us about the  increasing interest.
 
+<p align='center'>
 <img src='media/Slide15.jpeg' width='600' align='center'>
+</p>
 
 ## Easy to Make Means Easy to Mess Up
 
+<p align='center'>
 <img src='media/Slide16.jpeg' width='600' align='center'>
+</p>
 
 Thankfully, we have the tools to visualize data faster than ever. Charts that took days to manually draw can now be generated with the click of a mouse button. 
 
 However, since making charts is easy, we run the risk of not paying much attention to crafting them. In effect, we find ourselves making many ugly charts that we put into our PowerPoint slides.
 
+<p align='center'>
 <img src='media/Slide17.jpeg' width='600' align='center'>
+</p>
 
 Yale Professor and author of the influential book, Envisioning Information, once said “Power corrupts. PowerPoint corrupts absolutely.”
 
@@ -89,7 +95,9 @@ It’s so easy to make charts and slap them into our PowerPoint slides. But that
 
 ## Four-Step Data Visualization Framework
 
+<p align='center'>
 <img src='media/Slide19.jpeg' width='600' align='center'>
+</p>
 
 How do we make better charts? We can use Cole Knaflic’s 4-step data visualization framework. 
 
@@ -106,7 +114,7 @@ With these frameworks our aim is to make better charts that communicate effectiv
 
 Understanding the context means looking at the big picture. Looking at the problem or issue and everything around it from a bird’s eye view. We first want to understand the audience, our desired outcomes, the story we are going to tell, and the data we will use to support our story.
 
-<img src='media/Slide21.jpeg' width='600' align='center'>
+<img src='media/Slide21.jpeg' width='300' align='left'>
 
 First we have to know whom we will be communicating with. Is it grade schoolers, college students? Teachers? Are they from rural or urban areas? Are they from the government or private sector?
 
@@ -114,7 +122,7 @@ We identify who are the decision-makers. Who have the say whether to push your p
 
 Segment your audience. Define them as clearly as possible. Before you make charts, you should know for whom you will be making your charts in the first place!
 
-<img src='media/Slide22.jpeg' width='600' align='center'>
+<img src='media/Slide22.jpeg' width='300' align='right'>
 
 Once you have identified your audience, the next step is to define your story. What do you want your audience to know or do?
 
@@ -126,7 +134,7 @@ Strip down into only the most important bits. Try to summarize your story in 3 m
 
 Summarizing into three minutes and into just one sentence will help clarify your story and identify the most important parts. Always remember the desired outcome you want from your audience. Do you want them to do something? To know something?
 
-<img src='media/Slide23.jpeg' width='600' align='center'>
+<img src='media/Slide23.jpeg' width='300' align='left'>
 
 Now that you know your audience and what you want to tell them, identify your approach. How are you going to tell your story? Will this be a live presentation? Will this be through a written document? What will the tone be like? Will it be fun? Serious? Again, this will depend on the audience and what you want them to do.
 
@@ -134,43 +142,61 @@ Finally, answer "which data will help me drive my point?" Make sure that you don
 
 One way to help you identify your approach and how your will frame your story is through storyboarding.
 
+<p align='center'>
 <img src='media/Slide24.jpeg' width='600' align='center'>
+</p>
 
 Understanding the context means looking at the big picture. Doing so guides you to making the right data visualization and story to tell.
 
 ### Choose the appropriate charts
 
+<p align='center'>
 <img src='media/cover.jpeg' width='600' align='center'>
+</p>
 
 There are hundreds of charts and ways one can visualize information. We will focus on seven of the most used charts. What are they and when do we use each one of them?
 
+<p align='center'>
 <img src='media/Slide27.jpeg' width='600' align='center'>
+</p>
 
 We start with basic text. Sometimes, we don’t need fancy visuals if we want to show say a single number. Large text can be simple yet powerful way to get your message across.
 
+<p align='center'>
 <img src='media/Slide28.jpeg' width='600' align='center'>
+</p>
 
 Scatterplots show the relationships between two variables. In a scatterplot, each datapoint has two values. One value is on the horizontal axis while the other is on the vertical axis. In this case, we see that in general, defense increases with attack. 
 
+<p align='center'>
 <img src='media/Slide29.jpeg' width='600' align='center'>
+</p>
 
 A line chart is used to visualize trends in data over time. Financial data like stock prices, profit, inflation rates and foreign exchanges are often plotted this way. Populations over time are also plotted this way.
 
 This way, we can see if our value is going up or down over time.
 
+<p align='center'>
 <img src='media/Slide30.jpeg' width='600' align='center'>
+</p>
 
 Similar to a line chart, a slope chart is used to visualize trends in data over time. Only in this case, we are looking at only two points in time. This is useful in a quick look at which improved or worsened over the past year or month.
 
+<p align='center'>
 <img src='media/Slide31.jpeg' width='600' align='center'>
+</p>
 
 If we have multiple categories and we want to compare their values, we use a bar chart. While line, slope, and scatter plot charts deal solely with numbers. Bar charts deal with categories with numerical values. Typically, a horizontal bar chart is easier to read than a vertical bar chart.
 
+<p align='center'>
 <img src='media/Slide32.jpeg' width='600' align='center'>
+</p>
 
 Similar to a bar chart, square area charts compare values of two or more categories. However, if the difference in values are so large that using a bar chart will make the other bar look too small, the extra dimension of a square area makes visualization more effective for those cases.
 
+<p align='center'>
 <img src='media/Slide33.jpeg' width='600' align='center'>
+</p>
 
 Heat maps show distribution of values over an area. For example, the distribution of rainfall over the Philippines may use a heat map superimposed over the map of the Philippines. Distribution of elevations of mountains can also fall under a heat map, though they are a special case called topographic maps.
 
@@ -188,7 +214,9 @@ We can make use of Gestalt principles of visual perception to help us figure out
 
 ‘Gestalt’ is a German word meaning ‘unified whole.’ Gestalt principles aim to define rules by which we perceive things. 
 
+<p align='center'>
 <img src='media/Slide36.jpeg' width='600' align='center'>
+</p>
 
 Try to look at the shapes above. To the left most what do you see? At the center? To the right?
 
@@ -204,22 +232,30 @@ Now that we know the most important charts to use as well as techniques to impro
 
 Below is a chart showing proportions of pokemon Types. Let's say that we want to show what the three most common types are. What do you think can be improved in this chart?
 
+<p align='center'>
 <img src='media/chart.jpg' width='600' align='center'>
+</p>
 
 Below is an animation showing how I applied Gestalt principles to remove clutter and contrasts on color to focus attention.
 
+<p align='center'>
 <img src='media/makeover.gif' width='600' align='center'>
+</p>
 
 Finally, below is the chart before and after our quick makeover.
 
+<p align='center'>
 <img src='media/makeover.jpg' width='600' align='center'>
+</p>
 
 We have improved our chart by changing the chart type from a pie chart to a bar chart, used Gestalt principles to eliminate unnecessary visual elements and finally, used colors strategically to focus the audience’s attention on the most important parts of the visualization. Effectively, we have improved the visuals while at the same time, reducing the reader’s cognitive load.
 
 ### Tell a Story
 The final part of any data visualization project is the story. Again, it is not enough to show the data. People remember stories especially those that connect emotionally. We make our decisions mostly out of emotions and not reason. We have shown them the data to tap into their reason, what kind of story will we tell them to tap into their emotion?
 
+<p align='center'>
 <img src='media/Slide39.jpeg' width='600' align='center'>
+</p>
 
 Stories are about restoring balance. There is a status quo that has been disrupted. How does one get back to status quo? There is a journey that has encountered conflicts. How does one resolve these? There is an expectation that has not been met? How does one meet those expectations?
 
@@ -235,15 +271,15 @@ What is their takeaway? What is your call to action?
 
 Below are some charts from the Philippine Statistics Authority website. Can you improve these charts using the 4-step framework? 
 
+<p align='center'>
 <img src='media/ugly1.jpg' width='600' align='center'>
 <img src='media/ugly2.jpg' width='600' align='center'>
 <img src='media/ugly 3.jpg' width='600' align='center'>
 <img src='media/ugly4.jpg' width='600' align='center'>
 <img src='media/ugly5.jpg' width='600' align='center'>
+</p>
 
 You can also look for other charts that you would love to improve. **If you're willing to share your work, I'd love to see them and showcase them in this blog!**
-
-Kindly email your data vizzes to iambridge360@gmail.com.
 
 ## References
 Storytelling with Data by Cole Knaflic
